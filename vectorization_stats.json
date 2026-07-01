@@ -1,0 +1,18 @@
+{
+  "README.md": {
+    "total_chars": 4309,
+    "chunks": 18
+  },
+  "catalog-500.md": {
+    "total_chars": 1383,
+    "chunks": 8
+  },
+  "methodology.md": {
+    "total_chars": 3241,
+    "chunks": 12
+  },
+  "total_chunks": 38,
+  "total_embedded": 33,
+  "embed_model": "all-minilm:latest",
+  "collection": "mckinsey_case_library"
+}
